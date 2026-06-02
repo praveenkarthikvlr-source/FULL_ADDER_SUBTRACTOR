@@ -37,10 +37,13 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
+
 FULL ADDER
+
 <img width="429" height="395" alt="image" src="https://github.com/user-attachments/assets/7aadd35c-c00e-4b04-9ee8-96393ee6cfde" />
 
 FULL SUBTRACTOR
+
 <img width="438" height="393" alt="image" src="https://github.com/user-attachments/assets/61c00073-0e28-4edd-90c2-baec9cf2bb3a" />
 
 
@@ -64,6 +67,7 @@ Developed by: PRAVEEN KUMAR K
 RegisterNumber: 212225230216
 ```
 FULL ADDER
+
 ```
 module exp4(df,bo,a,b,bin);
 output df;
